@@ -1,0 +1,53 @@
+body {
+    background-color: #3b4252;
+    font-size: 15pt;
+}
+
+div .card {
+    background-color: #434c5e;
+}
+
+code, a {
+    font-family: 'Fira Code', monospace;
+    color: #eceff4;
+}
+
+pre {
+    white-space: pre-line;
+}
+
+.key {
+    padding-left: 2%;
+    color: #88c0d0;
+}
+
+.curly-bracket {
+    color: #d2d907;
+}
+
+.curly-bracket-closing {
+    color: #d2d907;
+}
+
+.square-bracket {
+    color: #9a49e7;
+}
+
+.square-bracket-closing {
+    padding-left: 2%;
+    color: #9a49e7;
+}
+
+.array {
+    padding-left: 6%;
+    color: #d8dee9;
+}
+
+iconify-icon {
+    margin-bottom: -3px;
+    color: #eceff4;
+}
+
+a:hover {
+    color: #8fbcbb;
+}
